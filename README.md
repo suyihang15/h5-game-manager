@@ -180,5 +180,7 @@ h5-game-manager/
 └── data/games.db        # SQLite 数据库 (自动创建)
 ```
 
-## 5. H5小游戏源码
-这个本人不能提供，毕竟涉及版权问题，请使用者自行寻找，并尊重作者。
+## 6. H5小游戏源码
+这个本人不能提供，毕竟涉及版权问题，请使用者自行寻找，并尊重作者。   
+## 7. 效果展示   
+<img width="1274" height="723" alt="屏幕截图 2026-06-23 182234" src="https://github.com/user-attachments/assets/90b98b16-32e4-4b35-a432-63f990f57e57" />
